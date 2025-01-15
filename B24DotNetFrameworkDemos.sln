@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathClient", "MathClient\MathClient.csproj", "{B53298CD-0B0E-4FEF-BAA7-DECB2B629BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B24MathLibrary", "B24MathLibrary\B24MathLibrary.csproj", "{456A2F58-CED6-42EE-A209-06A163527716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B53298CD-0B0E-4FEF-BAA7-DECB2B629BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53298CD-0B0E-4FEF-BAA7-DECB2B629BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53298CD-0B0E-4FEF-BAA7-DECB2B629BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53298CD-0B0E-4FEF-BAA7-DECB2B629BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456A2F58-CED6-42EE-A209-06A163527716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456A2F58-CED6-42EE-A209-06A163527716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456A2F58-CED6-42EE-A209-06A163527716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456A2F58-CED6-42EE-A209-06A163527716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

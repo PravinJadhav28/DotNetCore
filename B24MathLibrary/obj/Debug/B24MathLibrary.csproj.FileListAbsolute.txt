@@ -1,0 +1,6 @@
+E:\V# Practice\B24DotNetFrameworkDemos\B24DotNetFrameworkDemos\B24MathLibrary\bin\Debug\B24MathLibrary.dll
+E:\V# Practice\B24DotNetFrameworkDemos\B24DotNetFrameworkDemos\B24MathLibrary\bin\Debug\B24MathLibrary.pdb
+E:\V# Practice\B24DotNetFrameworkDemos\B24DotNetFrameworkDemos\B24MathLibrary\obj\Debug\B24MathLibrary.csproj.AssemblyReference.cache
+E:\V# Practice\B24DotNetFrameworkDemos\B24DotNetFrameworkDemos\B24MathLibrary\obj\Debug\B24MathLibrary.csproj.CoreCompileInputs.cache
+E:\V# Practice\B24DotNetFrameworkDemos\B24DotNetFrameworkDemos\B24MathLibrary\obj\Debug\B24MathLibrary.dll
+E:\V# Practice\B24DotNetFrameworkDemos\B24DotNetFrameworkDemos\B24MathLibrary\obj\Debug\B24MathLibrary.pdb
