@@ -8,3 +8,13 @@ E:\V# Practice\B24DotNetFrameworkDemos\B24DotNetFrameworkDemos\MathClient\obj\De
 E:\V# Practice\B24DotNetFrameworkDemos\B24DotNetFrameworkDemos\MathClient\bin\Debug\B24MathLibrary.dll
 E:\V# Practice\B24DotNetFrameworkDemos\B24DotNetFrameworkDemos\MathClient\bin\Debug\B24MathLibrary.pdb
 E:\V# Practice\B24DotNetFrameworkDemos\B24DotNetFrameworkDemos\MathClient\obj\Debug\MathClient.csproj.Up2Date
+E:\PravinGitHub\DotNetCore\DotNetCore\MathClient\bin\Debug\MathClient.exe.config
+E:\PravinGitHub\DotNetCore\DotNetCore\MathClient\bin\Debug\MathClient.exe
+E:\PravinGitHub\DotNetCore\DotNetCore\MathClient\bin\Debug\MathClient.pdb
+E:\PravinGitHub\DotNetCore\DotNetCore\MathClient\bin\Debug\B24MathLibrary.dll
+E:\PravinGitHub\DotNetCore\DotNetCore\MathClient\bin\Debug\B24MathLibrary.pdb
+E:\PravinGitHub\DotNetCore\DotNetCore\MathClient\obj\Debug\MathClient.csproj.AssemblyReference.cache
+E:\PravinGitHub\DotNetCore\DotNetCore\MathClient\obj\Debug\MathClient.csproj.CoreCompileInputs.cache
+E:\PravinGitHub\DotNetCore\DotNetCore\MathClient\obj\Debug\MathClient.csproj.Up2Date
+E:\PravinGitHub\DotNetCore\DotNetCore\MathClient\obj\Debug\MathClient.exe
+E:\PravinGitHub\DotNetCore\DotNetCore\MathClient\obj\Debug\MathClient.pdb
